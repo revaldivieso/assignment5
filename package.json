@@ -14,7 +14,8 @@
   },
   "author": "vianny reyes",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "lite-server": "^2.5.4"
   }
 }
